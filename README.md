@@ -5,8 +5,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=marmartins&show_icons=true&theme=onedark)](https://github.com/marmartins/github-profile-trophy)
+<h2>🏆 Marcelo's</h2>
+<a href="https://github.com/marmartins/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=marmartins&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
 [![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marmartins&show_icons=true&theme=onedark)](https://github.com/marmartins/github-readme-stats)
+
 
