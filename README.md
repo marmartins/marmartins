@@ -5,7 +5,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<h2>🏆 Marcelo's</h2>
+<h3>Hi there, I'm Marcelo</h3>
+<b>Glad to see you here!</b>
+</br>
+<h2>🏆 Marcelo's<h2>
+
 <a href="https://github.com/marmartins/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=marmartins&column=8&theme=gruvbox&no-frame=true"/>
 </a>
